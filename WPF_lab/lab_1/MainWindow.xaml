@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_lab"
         mc:Ignorable="d"
-        Title="Кудринский Олег ПИбд-21" Height="500" Width="900">
+        Title="Кудринский Олег ПИбд-21" Height="500" Width="900" MinHeight="800" MinWidth="600">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
